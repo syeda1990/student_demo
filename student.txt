@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 18,
+        "grade": "VG",
+        "subjects": [
+            "Math",
+            "Science"
+        ]
+    }
+]
