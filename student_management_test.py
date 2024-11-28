@@ -7,7 +7,6 @@ class TestStudentManagement(unittest.TestCase):
     def setUp(self):
         self.system = StudentManagement()
         
-        
 
     def test_add_student(self):
         self.system.students = []  
